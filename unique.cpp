@@ -1,4 +1,4 @@
-AUTHOR:K.RAKSHANA DATE:13-2-23
+//AUTHOR:K.RAKSHANA DATE:13-2-23
 #include<iostream>
 using namespace std;
 

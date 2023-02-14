@@ -4,7 +4,7 @@ using namespace std;
 
 void repeated_number(int arr[], int n) {
   int i, j, max_count = 0;
-  cout << "\nMost occurred number: ";
+  cout << "\n Most occurred number: ";
 
   for (i = 0; i < n; i++) {
     int count = 1;

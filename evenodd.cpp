@@ -1,3 +1,4 @@
+//AUTHOR:K.Rakshana DATE:17-2-23
 // C++ program to segregate even and odd elements of array
 #include <iostream>
 using namespace std;

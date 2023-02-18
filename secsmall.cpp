@@ -1,4 +1,5 @@
 //AUTHOR:K.Rakshana DATE:2-02-2023
+//C++ Code to find the second smallest element in the array
 #include<bits/stdc++.h>
 using namespace std;
 int main()

@@ -56,8 +56,8 @@ int main()
     cout<<"\n3rd Array\n";
     for(int i=0;i<n3;i++)
     cout<<ar3[i]<<"\t";
-	cout << "\nCommon Elements are\n ";
-	findCommon(ar1, ar2, ar3, n1, n2, n3);
-	return 0;
+    cout << "\nCommon Elements are\n ";
+    findCommon(ar1, ar2, ar3, n1, n2, n3);
+    return 0;
 }
 

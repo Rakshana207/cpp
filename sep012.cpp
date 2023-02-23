@@ -35,7 +35,7 @@ int main()
         {
             cin>>a[i];
         }
-        cout<<"The final Array is \n";
+        cout<<"The Final Array is \n";
         sort012(a,n);
         for(int i=0;i<n;i++)
         cout<<a[i]<<" ";

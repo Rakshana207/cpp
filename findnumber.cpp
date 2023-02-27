@@ -22,7 +22,7 @@ int main()
     {
         if(numbers[i]==x)
         {
-            cout<<"number was found\n";
+            cout<<"Number was found\n";
             cnt++;
         }
     }

@@ -1,0 +1,23 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int n;
+    cin>>n; // arr[n]; n=8  
+    // pop()  
+    vector<int> v1;
+    for(int i=0;i<n;i++)
+    {
+        int temp=0;
+        cin>>temp;
+        v1.push_back(temp);
+    } // 
+    //vector.erase( vector.begin() + 3 );
+    //v1.erase(v1.begin() + 4); // 
+    for(int i=0;i<v1.size();i++)
+    {
+        cout<<v1[i]<<" ";
+    }
+    
+    return 0;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Html course</title>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <a href="http://www.hyperlink.io">hyperlink</a>
+                |<a href="#My content">Go here</a>
+                |<a href="paragraph.html">paragraph</a>
+            </nav>
+        </header>
+        <section>
+            <img src="flower.jpg" width="100px" height="100px" alt="Purple flower">
+            <img src="https://via.placeholder.com/100x50">
+        Sri Acharya Ajith Kumar has interacted with 3rd year (EEE, ECE, CSE) students in the auditorium about Execellence of India.
+         He is a life teacher and founder Chairman of, VDM-INDIA ON THE MOVE (NGO). 
+         He established the NGO in the year 1993 at Hyderabad. 
+         He is an International Motivational speaker and visiting faculty too. 
+         Acharya Ji is born and brought up in West Bengal and completed his formal education there itself.
+          He is a Postgraduate in Management and Multi linguistic. Very popular among his followers across India, they call him “Guruji”. 
+          His strength is in Mentoring, teaching, motivating, training and development of “Human Resource”. 
+    </section>
+    <section id="My content">Look here</section>
+    <section>
+        He called upon the youth to conduct research towards a self-reliant India, which the Indian government has set as its goal,
+        and provide the necessary raw materials at the college level. He said that along with reading ability, 
+        emotional intelligence should also be cultivated among the students and for that they should have inner
+        engineering of feelings along with engineering of education. 
+        He said that India, a young country with a population of 140 crore, 
+        will stand up to the challenges facing the world today and once again establish its name as a global leader. 
+    </section>
+    </body>
+    </html>

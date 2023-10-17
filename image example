@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML course</title>
+    </head>
+    <body>
+        <section>
+            <img src="flower.jpg" width="100px" height="100px">
+            <br>
+            <a href="https://via.placeholder.com/100x50" target="_blank">
+                <img src="https://via.placeholder.com/100x50">
+            </a>
+            </section>
+            </body>
+            </html>
